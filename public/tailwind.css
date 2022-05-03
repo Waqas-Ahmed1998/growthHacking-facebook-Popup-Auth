@@ -10,13 +10,16 @@
 body {
 
   /* font-family: 'Domin', serif; */
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
   -webkit-tap-highlight-color: transparent;
   box-sizing: border-box;
 }
 
 
+.segoe {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
+}
 .rgba {
   background-color: rgba(255,255,255, 0.9);
 }
